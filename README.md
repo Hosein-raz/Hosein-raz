@@ -45,7 +45,7 @@ Always trying to create things with the best quality possible ✨
 </p>
 
 <h2> My Stats on Github 🔥 </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Hosein-raz&show_icons=true&theme=radical" alt="My stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Hosein-raz&show_icons=true&theme=radical" />
 
 <h2> Contact & Social </h2>
 <p>
